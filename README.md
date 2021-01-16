@@ -18,11 +18,10 @@ A basic whiteboard with drawing features has already been bootstrapped for you. 
 
 To complete the task, you can clone this repository (do not fork) and build on top of it, or you can start from scratch.
 
-To submit, send a link with details on how to run the code to binu@vidyalai.com. Do not submit a pull request.
+To submit, send a link to the source code with details on how to run it, to binu@vidyalai.com. Do not submit a pull request.
 
 Extra Credit:
 
 1. Add multiple pages to the whiteboard
-2. Make it collaborative (Like Google Jamboard, Using firebase or custom server side code)
+2. Make it collaborative (Like Google Jamboard, using firebase or custom server side code)
 3. Add more tools (Pan, Shapes, Highlighter etc.)
-f
