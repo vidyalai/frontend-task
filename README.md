@@ -5,6 +5,8 @@ Create a basic web whiteboard using React and [Fabric.js](http://fabricjs.com/ar
 1. Draw curves
 2. Erase drawn lines
 
+![UI](https://user-images.githubusercontent.com/67888574/104806160-65b99100-57fb-11eb-8176-4a741f1c4437.png)
+
 Whiteboard UI - [Figma Link](https://www.figma.com/file/b32qPPweMJPTZ29711DNtW/Frontend-Task?node-id=0%3A1) . Create an account in Figma to view/edit the design.
 
 A basic whiteboard with drawing features has already been bootstrapped for you. To run it:
@@ -23,3 +25,4 @@ Extra Credit:
 1. Add multiple pages to the whiteboard
 2. Make it collaborative (Like Google Jamboard, Using firebase or custom server side code)
 3. Add more tools (Pan, Shapes, Highlighter etc.)
+f
