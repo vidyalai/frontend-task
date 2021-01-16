@@ -14,7 +14,7 @@ A basic whiteboard with drawing features has already been bootstrapped for you. 
 1. Clone this repository to your system
 2. `npm i`
 3. `npm start`
-4. Access the app from http://localhost:3000
+4. Access the app from http://localhost:3000. Click and drag your mouse to draw.
 
 To complete the task, you can clone this repository (do not fork) and build on top of it, or you can start from scratch.
 
