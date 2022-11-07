@@ -1,14 +1,14 @@
 # Frontend Task
-
 Create a basic web whiteboard using React and [Fabric.js](http://fabricjs.com/articles/) on which users can
-
 1. Draw curves
 2. Erase drawn lines
 
+Estimated Time: 3-5 hours
 
 ![UI](https://user-images.githubusercontent.com/67888574/104806160-65b99100-57fb-11eb-8176-4a741f1c4437.png)
 
-Whiteboard UI - [Figma Link](https://www.figma.com/file/b32qPPweMJPTZ29711DNtW/Frontend-Task?node-id=0%3A1) . Create an account in Figma to view the design and download assets. The app you make should **follow the design as closely as possible**.
+Whiteboard UI: [Figma Link](https://www.figma.com/file/b32qPPweMJPTZ29711DNtW/Frontend-Task?node-id=0%3A1) . 
+Create an account in Figma to view the design and download assets. The app you make should **follow the design as closely as possible**.
 
 A basic whiteboard with drawing features has already been made for you, and you can use it as a starting point. To run it:
 
