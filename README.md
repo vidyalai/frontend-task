@@ -13,8 +13,8 @@ Create an account in Figma to view the design and download assets. The app you m
 A basic whiteboard with drawing features has already been made for you, and you can use it as a starting point. To run it:
 
 1. Clone(do not fork) this repository to your system
-2. `npm i`
-3. `npm start`
+2. Run `npm i`
+3. Run `npm start`
 4. Access the app from http://localhost:3000. Click and drag your mouse to draw.
 
 To complete the task, you can build on top of this repo, or you can start from scratch.
