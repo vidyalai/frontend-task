@@ -12,12 +12,12 @@ Whiteboard UI - [Figma Link](https://www.figma.com/file/b32qPPweMJPTZ29711DNtW/F
 
 A basic whiteboard with drawing features has already been made for you, and you can use it as a starting point. To run it:
 
-1. Clone this repository to your system
+1. Clone(do not fork) this repository to your system
 2. `npm i`
 3. `npm start`
 4. Access the app from http://localhost:3000. Click and drag your mouse to draw.
 
-To complete the task, you can clone this repository (do not fork) and build on top of it, or you can start from scratch.
+To complete the task, you can build on top of this repo, or you can start from scratch.
 
 Extra Credit:
 1. Add multiple pages to the whiteboard
